@@ -1,0 +1,14 @@
+ReCircuit prototype - how to open
+=================================
+
+1. Unzip the folder first (right-click > Extract All). Don't open it from inside the zip.
+2. Double-click index.html. It opens in your browser (Chrome, Edge or Firefox).
+3. Log in with a sample account:
+
+   layla@campus.ac.ae   /  demo1234   (student)
+   omar@campus.ac.ae    /  demo1234   (student)
+   admin@campus.ac.ae   /  admin1234  (admin)
+
+No internet or installation needed.
+Data is saved in your own browser only. Click "Reset sample data" at the bottom to start again.
+See README.md for the requirements each screen covers and the test cases.
